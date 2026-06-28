@@ -1,0 +1,23 @@
+{
+  "age_band": "26-35",
+  "risk": "medium",
+  "allocation": {
+    "Large Cap": 0.4,
+    "Flexi Cap": 0.2,
+    "Hybrid": 0.4
+  },
+  "top_schemes": {
+    "Large Cap": [
+      118632,
+      120503,
+      119552,
+      148567,
+      101206
+    ],
+    "Flexi Cap": [
+      102887,
+      120843
+    ],
+    "Hybrid": []
+  }
+}

@@ -1,0 +1,16 @@
+file,logical_name,rows,cols
+01_fund_master.csv,fund_master,40,15
+02_nav_history.csv,nav_history,46000,3
+03_aum_by_fund_house.csv,aum_by_fund_house,90,5
+04_monthly_sip_inflows.csv,monthly_sip_inflows,48,6
+05_category_inflows.csv,category_inflows,144,3
+06_industry_folio_count.csv,industry_folio_count,21,6
+07_scheme_performance.csv,scheme_performance,40,19
+08_investor_transactions.csv,investor_transactions,32778,13
+09_portfolio_holdings.csv,portfolio_holdings,322,8
+10_benchmark_indices.csv,benchmark_indices,8050,3
+nav_SBI_Bluechip_119551.csv,nav_119551,3236,9
+nav_Axis_Bluechip_119092.csv,nav_119092,3565,9
+nav_ICICI_Bluechip_120503.csv,nav_120503,3307,9
+nav_Kotak_Bluechip_120841.csv,nav_120841,3301,9
+nav_Nippon_Large_Cap_118632.csv,nav_118632,3298,9
